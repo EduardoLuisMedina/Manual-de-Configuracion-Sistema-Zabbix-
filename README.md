@@ -10,3 +10,4 @@ Para nuestra configuración de nuestro sistema zabbix se debe tomar en cuenta lo
 + [Versión_5](Configuración_TpLink_SNMP.pdf)
 + [Versión_6](Topologia_de_la_Red.pdf)
 + [Version_7](subnetting_Ip_computo.pdf)
++ [Version_8](Subnetting_IP.pdf)
