@@ -11,3 +11,4 @@ Para nuestra configuración de nuestro sistema zabbix se debe tomar en cuenta lo
 + [Versión_6](Topologia_de_la_Red.pdf)
 + [Version_7](subnetting_Ip_computo.pdf)
 + [Version_8](Subnetting_IP.pdf)
++ [Version_9](Resultado_de_entre_enrutadores_mikrotik_RB951Ui.pdf)
